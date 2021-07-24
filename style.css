@@ -1,0 +1,265 @@
+.container {
+		display: block;
+}
+.div-1 {
+	height: 500px;
+	width: 1200px;
+	background-image: url(image/see.jpg);
+	background-size: 400px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.n1 {
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+	text-decoration: none;
+	font-size: 30px;
+	color: gray;
+}
+
+.n2 {
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+.underline {
+	height: 4px;
+	width: 150px;
+	background: black;
+}
+
+.btn-1 {
+	height: 50px;
+	width: 180px;
+	border: 2px solid black;
+}
+
+.div-2 {
+	height: 100px;
+	width: 1200px;
+	background: black;
+	color: white;
+	display: inline-block;
+}
+
+.h1 {
+	float: left;
+	margin-left: 80px;
+	margin-top: 29px;
+}
+
+.btn-2 {
+	float: right;
+	margin-right: 160px;
+	margin-top: 15px;
+	height: 50px;
+	width: 180px;
+	border: 2px solid white;
+	border-radius: 25px;
+	
+}
+
+.div-3 {
+	height: 370px;
+	width: 1200px;
+	background: white;
+	color: black;
+	position: relative;
+}
+
+.underline2 {
+	height: 4px;
+	width: 100px;
+	background: black;
+}
+
+.details-1 {
+	float: left;
+	text-align: left;
+	margin-left: 150px;
+}
+
+.img-1 {
+	float: right;
+	position: absolute;
+	left: 740px;
+	top: 5px;
+}
+
+.p1 {
+	color: gray;
+}
+
+#div-4 {
+	height: 370px;
+	width: 1200px;
+	background-image: url(image/key.jpg);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: white;
+}
+
+.details-2 {
+	text-align: center;
+}
+
+.div-5 {
+	height: 1130px;
+	width: 1200px;
+	background: white;
+}
+
+.btn-3 {
+	height: 60px;
+	width: 180px;
+	border: 2px solid black;
+	background: white;
+}
+
+.btn-3:hover {
+	background: black;
+	color: white;
+}
+
+
+
+.div-7 {
+	height: 730px;
+	width: 1200px;
+	background: white;
+	color: white;
+}
+
+.d1 {
+	float: left;
+	margin-left: 40px;
+	text-align: left;
+	color: black;
+}
+
+.d2{
+	float: left;
+	margin-left: 50px;
+	text-align: left;
+	color: black;
+	
+}
+
+.d3 {
+	float: right;
+	margin-right: 20px;
+	text-align: left;
+	color: black;
+}
+.div-8 {
+	height: 200px;
+	width: 1200px;
+	background: black;
+	color: white;
+}
+.d4 {
+	height: 35px;
+	width: 490px;
+	border: 2px solod white;
+	background: black;
+}
+#i {
+	float: left;
+	margin-left: 300px;
+}
+.btnn {
+	height: 37px;
+	width: 100px;
+	background: white;
+	text-align: center;
+}
+
+.div-9 {
+	height: 900px;
+	width: 1200px;
+	background: white;
+	color: balck;
+}
+.pp {
+	float: left;
+	margin-left: 100px;
+	color: black;
+}
+.ppp {
+	float: left;
+	margin-left: 230px;
+	color: black;
+}
+.pppp {
+	float: right;
+	margin-right: 100px;
+	color: black;
+}
+
+.from {
+	height: 35px;
+	width: 490px;
+	border: 2px solod black;
+	background: white;
+	float: left;
+	margin-left: 50px;
+}
+.from-1 {
+		float: right;
+		margin-right: 50px;
+		
+}
+.from-2 {
+	float: right;
+	margin-right: 50px;
+	height: 37px;
+	width: 100px;
+	background: black;
+	color: white;
+}
+.div-10 {
+	
+	height: 200px;
+	width: 1199px;
+	background: black;
+	color: white;
+}
+
+.bttn {
+	bolder: 1px solid white;
+	border-radius: 50px;
+	height: 60px;
+	width: 60px;
+}
+
+
+
+.h {
+	color: black;
+	font-size: 20px;
+}
+.hs {
+	color: white;
+	font-size: 30px;
+}
+.hx {
+	color: white;
+	font-size: 50px;
+}
+
+.div-6 {
+	height: 430px;
+	width: 1200px;
+	background-image: url(image/coff.jpg);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: white;
+}
